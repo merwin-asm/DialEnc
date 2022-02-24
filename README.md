@@ -23,6 +23,6 @@ DialEnc is a encryption based on dialing system in phones.
 ```
 
 
-## Authors
+## Author
 
 - [@Merwin](https://www.github.com/mastercodermerwin)
